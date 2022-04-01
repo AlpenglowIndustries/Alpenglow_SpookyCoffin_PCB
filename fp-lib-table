@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name Halloween)(type KiCad)(uri "C:/Users/AlpenglowShop/Box/CAD and IDEs/KiCad/Libraries/Halloween.pretty")(options "")(descr ""))
+  (lib (name Halloween)(type KiCad)(uri ${ALPENGLOWMOD}/Alpenglow_SpookyCoffin_PCB/Halloween.pretty)(options "")(descr ""))
 )
