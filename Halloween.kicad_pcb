@@ -8349,7 +8349,7 @@
   (gr_text "+\n\n\n\n-" (at 166.878 115.062 90) (layer "B.SilkS") (tstamp 00000000-0000-0000-0000-000061561549)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "+ = LONG\n- = SHORT" (at 171.069 107.696) (layer "B.SilkS") (tstamp 21ae9c3a-7138-444e-be38-56a4842ab594)
+  (gr_text "+ LONG\n- SHORT" (at 170.307 107.95) (layer "B.SilkS") (tstamp 21ae9c3a-7138-444e-be38-56a4842ab594)
     (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
   )
   (gr_text "+\n\n\n\n-" (at 183.261 69.215 180) (layer "B.SilkS") (tstamp 8d9a3ecc-539f-41da-8099-d37cea9c28e7)
