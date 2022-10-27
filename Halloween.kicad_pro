@@ -404,8 +404,8 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "C:/Users/AlpenglowShop/Documents/Kicad/KiCAD_Templates/AlpenglowTitleBlock.kicad_wks",
-    "plot_directory": "",
+    "page_layout_descr_file": "AlpenglowTitleBlock.kicad_wks",
+    "plot_directory": "./",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
